@@ -20,7 +20,7 @@ transform: translateY(-4px);
 }
 
 .hover-effect:hover {
-transform: translateY(-5px);
+transform: translateY(-6px);
 transition: 0.3s;
 }
 
@@ -34,4 +34,7 @@ transition: 0.3s;
     margin: 50px;
     background-color: #d2de93e7;
     border: 1px solid #dbe3b6e7;
+}
+.underline-btn:hover {
+  text-decoration: underline;
 }
